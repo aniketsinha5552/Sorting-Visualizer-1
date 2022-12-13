@@ -82,7 +82,7 @@ export default class SortingVisualizer extends React.Component {
             }}></div>
         ))}
         <button onClick={() => this.mergeSort()}>Merge Sort</button>
-        <button onClick={() => this.bubbleSort()}>Bubble Sort</button>
+        {/* <button onClick={() => this.bubbleSort()}>Bubble Sort</button> */}
         <button onClick={() => this.resetArray()}>New Array</button>
       </div>
     );

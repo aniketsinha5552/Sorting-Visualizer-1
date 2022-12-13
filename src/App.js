@@ -9,7 +9,6 @@ function App() {
     <div className="App">
       <Header />
       <SortingVisualizer></SortingVisualizer>
-      <Footer />
     </div>
   );
 }

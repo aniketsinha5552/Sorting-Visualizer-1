@@ -9,9 +9,12 @@
   width: 10px;
   display:inline-block;
   margin: 0 1px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   
 }
 .array-container >button{
+  
   background-color: #4CAF50; /* Green */
   border:1px white;
   color: white;
